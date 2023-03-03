@@ -1,0 +1,8 @@
+C:\D\Programming\ITMOAlgorithmsAndDataStructures\9 A\bin\Debug\9 A.exe.config
+C:\D\Programming\ITMOAlgorithmsAndDataStructures\9 A\bin\Debug\9 A.exe
+C:\D\Programming\ITMOAlgorithmsAndDataStructures\9 A\bin\Debug\9 A.pdb
+C:\D\Programming\ITMOAlgorithmsAndDataStructures\9 A\obj\Debug\9 A.csproj.AssemblyReference.cache
+C:\D\Programming\ITMOAlgorithmsAndDataStructures\9 A\obj\Debug\9 A.csproj.SuggestedBindingRedirects.cache
+C:\D\Programming\ITMOAlgorithmsAndDataStructures\9 A\obj\Debug\9 A.csproj.CoreCompileInputs.cache
+C:\D\Programming\ITMOAlgorithmsAndDataStructures\9 A\obj\Debug\9 A.exe
+C:\D\Programming\ITMOAlgorithmsAndDataStructures\9 A\obj\Debug\9 A.pdb
